@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sap-community-developer-challenge-hana-multimodel)](https://api.reuse.software/info/github.com/SAP-samples/sap-community-developer-challenge-hana-multimodel)
+
 # SAP Community Developer Challenge: SAP HANA multi-model with Python and SAP Business Application Studio
 
 This repository is a starting point of the Developer Challenge for **SAP HANA Multi-model**. See the corresponding post: https://community.sap.com/t5/application-development-blog-posts/sap-developer-challenge-sap-hana-multi-model-using-python-in-sap-business/ba-p/13722560.
